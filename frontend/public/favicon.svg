@@ -1,0 +1,30 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Phone -->
+  <rect x="96" y="40" rx="24" ry="24" width="320" height="432" fill="#2D9CDB"/>
+  <rect x="120" y="80" rx="16" ry="16" width="272" height="360" fill="white"/>
+
+  <!-- Shop roof -->
+  <path d="M120 120 L392 120 L360 170 L152 170 Z" fill="#F2C94C"/>
+  <rect x="152" y="170" width="208" height="24" fill="#EB5757"/>
+
+  <!-- Store body -->
+  <rect x="152" y="194" width="208" height="160" rx="12" fill="#F2994A"/>
+
+  <!-- Cart -->
+  <rect x="200" y="240" width="120" height="60" rx="8" fill="#2D9CDB"/>
+  <circle cx="220" cy="312" r="12" fill="#333"/>
+  <circle cx="300" cy="312" r="12" fill="#333"/>
+
+  <!-- Price tag -->
+  <path d="M350 260 L420 260 L460 300 L420 340 L350 340 Z" fill="#9B51E0"/>
+  <circle cx="390" cy="300" r="6" fill="white"/>
+
+  <!-- Coin -->
+  <circle cx="160" cy="380" r="28" fill="#F2C94C"/>
+  <text x="152" y="388" font-size="24" fill="white" font-family="Arial">$</text>
+
+  <!-- Check icon -->
+  <circle cx="320" cy="380" r="24" fill="#27AE60"/>
+  <path d="M310 380 L318 388 L332 370" stroke="white" stroke-width="4" fill="none"/>
+
+</svg>

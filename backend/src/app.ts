@@ -25,8 +25,8 @@ app.use(compression());
 app.use(express.json({ limit: '500mb' }));
 app.use(express.urlencoded({ limit: '500mb', extended: true }));
 
-app.use(errorConverter);
-app.use(errorHandler);
+// app.use(errorConverter);
+// app.use(errorHandler);
 
 app.use('/api', router);
 

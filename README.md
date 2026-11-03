@@ -12,7 +12,6 @@ Install dependencies:
 cd frontend
 npm install
 ```
-
 Run in development mode:
 
 ```bash
